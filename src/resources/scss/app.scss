@@ -1,5 +1,52 @@
 @import 'variables';
 
-.search-form {
-    
+.card-course-item {
+    margin-top: 16px;
+}
+
+.user-avatar {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin-right: 4px;
+}
+
+.headerHbs {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1;
+}
+
+.main_body {
+    margin-top: 90px;
+}
+
+.my-card-content {
+    height: 100%;
+}
+
+.my-card-content .card {
+    height: 100%
+}
+
+.my-card-content .card-footer {
+    padding: .75rem 1.25rem;
+    background-color: transparent;
+     border-top: none;
+    margin: auto;
+}
+
+.my-card-content .col-sm-6 {
+    margin-bottom: 20px;
+}
+
+.my-card-content .card-body {
+    padding-bottom: 0;
+}
+
+.checkbox-select-all-options {
+    width: 190px;
+    margin: 0 20px;
 }
